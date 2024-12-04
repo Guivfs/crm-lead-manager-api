@@ -1,6 +1,6 @@
 # LeadTrack CRM
 
-![Conversa Inicial](assets/github/readme.md)
+![Conversa Inicial](assets/github/chatgpt.png)
 
 ## 📖 Sobre o Projeto
 
@@ -38,14 +38,14 @@ Durante o desenvolvimento deste projeto, estarei aperfeiçoando as seguintes hab
 
 ## 📂 Estrutura do Projeto
 
-/crm-leads 
-├── /controllers # Lógica dos endpoints 
-├── /models # Definições das tabelas 
-├── /routes # Arquivos de rotas 
-├── /config # Configurações (ex.: banco de dados) 
-├── /assets # Imagens e outros arquivos estáticos 
-├── app.js # Ponto de entrada do backend 
-└── .env # Variáveis de ambiente (configuração do banco de dados)
+/crm-leads <br>
+├── /controllers # Lógica dos endpoints <br>
+├── /models # Definições das tabelas <br>
+├── /routes # Arquivos de rotas <br>
+├── /config # Configurações (ex.: banco de dados) <br>
+├── /assets # Imagens e outros arquivos estáticos <br>
+├── app.js # Ponto de entrada do backend <br>
+└── .env # Variáveis de ambiente (configuração do banco de dados)<br>
 ---
 
 ## 🌟 Funcionalidades Planejadas
@@ -74,7 +74,7 @@ Durante o desenvolvimento deste projeto, estarei aperfeiçoando as seguintes hab
 
 A imagem abaixo mostra o print da conversa que originou este projeto:
 
-![Conversa Inicial](assets/github/readme.md)
+![Conversa Inicial](assets/github/chatgpt.png)
 
 ---
 
@@ -86,4 +86,6 @@ A imagem abaixo mostra o print da conversa que originou este projeto:
 
 ---
 
-> Este projeto faz parte do meu portfólio e foi desenvolvido com o intuito de resolver problemas reais enfrentados por empresas, destacando minhas habilidades em desenvolvimento backend. 😊
+> Este projeto faz parte do meu portfólio e foi desenvolvido com o intuito de resolver problemas reais enfrentados por empresas, destacando minhas habilidades em desenvolvimento backend. 😊<br>
+<br>
+Author: Guilherme Vieira 
